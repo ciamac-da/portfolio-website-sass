@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-website-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciamac-da/portfolio-website-sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciamac-da/portfolio-website-sass/issues"
+  },
+  "homepage": "https://github.com/ciamac-da/portfolio-website-sass#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
