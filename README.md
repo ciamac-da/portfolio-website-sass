@@ -1,4 +1,4 @@
-https://github.com/ciamac-da/portfolio-website-sass#readme
+https://github.com/ciamac-da/portfolio-website-sass
 
 ![](./assets/1.jpg)
 
